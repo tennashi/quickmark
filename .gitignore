@@ -1,0 +1,3 @@
+.vim-lsp-settings
+dist/*
+node_modules/*
